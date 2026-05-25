@@ -25,7 +25,7 @@ Make sure you have Python 3.8+ installed. It is highly recommended to use a virt
 Ensure your project directory looks like this:
 ```text
 your-folder/
-├── app.py                     # The Streamlit application script
+├── ocr.py                     # The Streamlit application script
 ├── ocr_model_deep_v1.pth      # Your trained PyTorch model weights
 ├── requirements.txt           # Dependencies
 └── README.md                  # This file

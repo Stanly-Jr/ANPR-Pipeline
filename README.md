@@ -29,3 +29,9 @@ your-folder/
 ├── ocr_model_deep_v1.pth      # Your trained PyTorch model weights
 ├── requirements.txt           # Dependencies
 └── README.md                  # This file
+```
+
+### 2. Running the File
+```bash
+streamlit run ocr.py
+```
